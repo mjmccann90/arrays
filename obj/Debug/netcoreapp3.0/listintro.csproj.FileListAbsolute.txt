@@ -1,0 +1,11 @@
+/Users/markmccann/workspace/listintro/bin/Debug/netcoreapp3.0/listintro
+/Users/markmccann/workspace/listintro/bin/Debug/netcoreapp3.0/listintro.deps.json
+/Users/markmccann/workspace/listintro/bin/Debug/netcoreapp3.0/listintro.runtimeconfig.json
+/Users/markmccann/workspace/listintro/bin/Debug/netcoreapp3.0/listintro.runtimeconfig.dev.json
+/Users/markmccann/workspace/listintro/bin/Debug/netcoreapp3.0/listintro.dll
+/Users/markmccann/workspace/listintro/bin/Debug/netcoreapp3.0/listintro.pdb
+/Users/markmccann/workspace/listintro/obj/Debug/netcoreapp3.0/listintro.csprojAssemblyReference.cache
+/Users/markmccann/workspace/listintro/obj/Debug/netcoreapp3.0/listintro.AssemblyInfoInputs.cache
+/Users/markmccann/workspace/listintro/obj/Debug/netcoreapp3.0/listintro.AssemblyInfo.cs
+/Users/markmccann/workspace/listintro/obj/Debug/netcoreapp3.0/listintro.dll
+/Users/markmccann/workspace/listintro/obj/Debug/netcoreapp3.0/listintro.pdb
